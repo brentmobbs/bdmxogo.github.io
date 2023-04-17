@@ -12,7 +12,7 @@ body {
     font-size: 2em;
     font-family: "Garamond", Garamond, serif;
     font-weight: bold;
-    font-variant: small-caps;
+    font-variant: small-caps !important;
     font-style: italic;
 }
 
@@ -21,13 +21,13 @@ h2, h3 {
     font-family: "Lucida Console", "Courier New", monospace;
 }
 @keyframes rainbowText{
-    0%   {  color: #FF0900; }
-    17%  {  color: #FF7F00; }
-    33%  {  color: #FFEF00; }
-    50%  {  color: #00F11D; }
-    67%  {  color: #0079FF; }
-    83%  {  color: #A800FF; }
-    100% {  color: #FF0900; }
+    0%   {  color: blue; }
+/*    17%  {  color: #FF7F00; } */
+    33%  {  color: red; }
+/*    50%  {  color: #00F11D; } */
+    67%  {  color: purple; }
+/*    83%  {  color: #A800FF; } */
+    100% {  color: blue; }
 }
 
 .about-container {
