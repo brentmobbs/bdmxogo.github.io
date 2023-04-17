@@ -20,14 +20,33 @@ body {
   fill: deepskyblue !important;
 }
 .strong-losses { 
-  fill: tomato !important;
+  fill: hotpink !important;
 }
 .weak-wins { 
   fill: cornflowerblue !important;
 }
 .weak-losses { 
-  fill: crimson !important;
+  fill: deeppink !important;
 }
+.library-won-result-vs-stronger { 
+  fill: deepskyblue !important;
+}
+.library-won-result-vs-weaker { 
+  fill: cornflowerblue !important;
+}
+.library-lost-result-vs-weaker { 
+  fill: deeppink !important;
+}
+.library-lost-result-vs-stronger { 
+  fill: hotpink !important;
+}
+.library-lost-result-unranked { 
+  fill: hotpink !important;
+}
+.library-won-result-unranked { 
+  fill: deepskyblue !important;
+}
+
 
 h2, h3 {
     animation:rainbowText 2s infinite;
