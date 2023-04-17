@@ -111,8 +111,3 @@ h1, h2, h3 {
     50%  {  opacity: 1; }
     100% {  opacity: 0; }
 }
-
-/* clean up the menu */
-a[href="/leaderboards"] {
-    display: none !important;
-}
