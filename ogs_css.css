@@ -5,10 +5,15 @@
 .Card  {
     background-image: url('https://brentmobbs.github.io/bdmxogo.github.io/stars2.png') !important;
     border-radius: 12px !important;
+    border-style: outset !important;
 }
 
 .NavBar {
     background-image: url('https://brentmobbs.github.io/bdmxogo.github.io/cnstar.gif') !important;
+}
+
+.avatar-and-ratings-row {
+    border-image: url('https://brentmobbs.github.io/bdmxogo.github.io/frame.png') !important;
 }
 
 body {
