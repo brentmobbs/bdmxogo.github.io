@@ -18,6 +18,8 @@ body {
     font-weight: bold;
     font-variant: small-caps !important;
     font-style: italic;
+}
+.avatar-container {
     background-image: url('https://brentmobbs.github.io/bdmxogo.github.io/halo.png') !important;
 }
 
@@ -33,7 +35,7 @@ body {
 .weak-losses { 
   fill: deeppink !important;
 }
-.library-won-result-vs-stronger { 
+.PaginatedTable game-history-table clickable-rows .library-won-result-vs-stronger { 
   fill: deepskyblue !important;
 }
 .library-won-result-vs-weaker { 
