@@ -4,8 +4,8 @@ body {
 }
 
 .container {
-    max-width: none !important;
-    background-image: url('https://github.com/brentmobbs/go/blob/458796a14ec02b60217d21ca90c8850ef3710cd9/stars_bg.gif?raw=true') !important;
+    /* max-width: none !important; */
+    background-image: url('https://brentmobbs.github.io/bdmxogo.github.io/stars_bg.gif') !important;
 }
 
 .avatar-container .Player-username {
