@@ -71,6 +71,9 @@ h2, h3 {
     position: relative;
     background-image: url('https://brentmobbs.github.io/bdmxogo.github.io/stars2.png') !important;
 }
+.Card  {
+    background-image: url('https://brentmobbs.github.io/bdmxogo.github.io/stars2.png') !important;
+}
 
 /* see https://yewang.github.io/ProfileCSS/profile.css for original with scrolling stuff */
 
