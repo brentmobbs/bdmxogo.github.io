@@ -95,12 +95,12 @@ h1, h2, h3 {
 
 .about-container h1 {
     font-size: 3em;
-    font-style: normal;
+    font-style: normal !important;
 }
 
 .about-container h3 {
     color: lightcyan
-    font-style: normal;
+    font-style: normal !important;
     animation:blinkingText 2s infinite;
 }
 @keyframes blinkingText{
