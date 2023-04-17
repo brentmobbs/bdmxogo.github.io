@@ -5,7 +5,7 @@ body {
 
 .container {
     max-width: none !important;
-    background-image: url('https://github.com/brentmobbs/go/blob/458796a14ec02b60217d21ca90c8850ef3710cd9/stars_bg.gif') !important;
+    background-image: url('https://github.com/brentmobbs/go/blob/458796a14ec02b60217d21ca90c8850ef3710cd9/stars_bg.gif?raw=true') !important;
 }
 
 .avatar-container .Player-username {
