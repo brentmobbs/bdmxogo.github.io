@@ -2,6 +2,14 @@
   display:none !important;
 }
 
+.Card  {
+    background-image: url('https://brentmobbs.github.io/bdmxogo.github.io/stars2.png') !important;
+}
+
+.NavBar {
+    background-image: url('https://brentmobbs.github.io/bdmxogo.github.io/stars2.png') !important;
+}
+
 body {
     font-family: "Garamond", Garamond, serif;
     text-align: center;
@@ -71,10 +79,6 @@ h2, h3 {
 .about-container {
     overflow: hidden;
     position: relative;
-    background-image: url('https://brentmobbs.github.io/bdmxogo.github.io/stars2.png') !important;
-}
-.Card  {
-    background-image: url('https://brentmobbs.github.io/bdmxogo.github.io/stars2.png') !important;
 }
 
 /* see https://yewang.github.io/ProfileCSS/profile.css for original with scrolling stuff */
