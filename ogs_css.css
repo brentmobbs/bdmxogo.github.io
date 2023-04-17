@@ -37,11 +37,9 @@ body {
 }
 .library-won-result-vs-weaker { 
   background-color: cornflowerblue !important;
-  color: white !important
 }
 .library-lost-result-vs-weaker { 
   background-color: deeppink !important;
-  color: white !important
 }
 .library-lost-result-vs-stronger { 
   background-color: hotpink !important;
