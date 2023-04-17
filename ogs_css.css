@@ -19,9 +19,6 @@ body {
     font-variant: small-caps !important;
     font-style: italic;
 }
-.avatar-and-ratings-row {
-    background-image: url('https://brentmobbs.github.io/bdmxogo.github.io/halo.png') !important;
-}
 
 .strong-wins { 
   fill: deepskyblue !important;
