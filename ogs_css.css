@@ -20,6 +20,10 @@ body {
     background-image: url('https://brentmobbs.github.io/bdmxogo.github.io/stars_bg.gif') !important;
 }
 
+.current-users-move {
+    background-image: url('https://brentmobbs.github.io/bdmxogo.github.io/stars_bg.gif') !important;
+}
+
 .avatar-container .Player-username {
     font-size: 2em;
     font-family: "Garamond", Garamond, serif;
