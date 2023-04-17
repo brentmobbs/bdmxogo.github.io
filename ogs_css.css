@@ -21,13 +21,13 @@ h2, h3 {
     font-family: "Lucida Console", "Courier New", monospace;
 }
 @keyframes rainbowText{
-    0%   {  color: blue; }
+    0%   {  color: tomato; }
 /*    17%  {  color: #FF7F00; } */
-    33%  {  color: red; }
+    33%  {  color: deepskyblue; }
 /*    50%  {  color: #00F11D; } */
-    67%  {  color: purple; }
+    67%  {  color: lavender; }
 /*    83%  {  color: #A800FF; } */
-    100% {  color: blue; }
+    100% {  color: tomato; }
 }
 
 .about-container {
@@ -36,12 +36,15 @@ h2, h3 {
 }
 
 /* see https://yewang.github.io/ProfileCSS/profile.css for original with scrolling stuff */
+
+.about-container {
+    color: deepskyblue;
+    font-style: italic;
+}
+
 .about-container h1 {
-    color: limegreen;
+    color: deepskyblue;
     font-size: 3em;
-    position: absolute;
-    width: 100%;
-    height: 100%;
 }
 
 .about-container h3 {
