@@ -40,6 +40,10 @@ body {
     font-style: italic;
 }
 
+.user_info {
+    color: red !important;
+}
+
 .strong-wins { 
   fill: deepskyblue !important;
 }
