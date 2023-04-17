@@ -11,6 +11,7 @@ body {
 .avatar-container .Player-username {
     font-size: 2em;
     font-family: "Garamond", Garamond, serif;
+    font-weight: bold;
 }
 
 h2, h3 {
