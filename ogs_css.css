@@ -16,6 +16,19 @@ body {
     font-style: italic;
 }
 
+.strong-wins { 
+  fill: deepskyblue !important;
+}
+.strong-losses { 
+  fill: tomato !important;
+}
+.weak-wins { 
+  fill: cornflowerblue !important;
+}
+.weak-losses { 
+  fill: crimson !important;
+}
+
 h2, h3 {
     animation:rainbowText 2s infinite;
     font-family: "Lucida Console", "Courier New", monospace;
