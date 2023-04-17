@@ -1,3 +1,7 @@
+.ratings-row {
+  display:none !important;
+}
+
 body {
     font-family: "Garamond", Garamond, serif;
     text-align: center;
