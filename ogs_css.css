@@ -66,7 +66,7 @@ body {
 }
 
 
-h2, h3 {
+h1, h2, h3 {
     animation:rainbowText 2s infinite;
     font-family: "Lucida Console", "Courier New", monospace;
 }
@@ -90,14 +90,15 @@ h2, h3 {
 .about-container {
     color: deepskyblue;
     font-style: italic;
+    font-size: 3em;
 }
 
 .about-container h1 {
-    color: deepskyblue;
     font-size: 3em;
 }
 
 .about-container h3 {
+    color: lightcyan
     font-style: normal;
     animation:blinkingText 2s infinite;
 }
