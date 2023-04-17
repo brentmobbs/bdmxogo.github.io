@@ -49,10 +49,10 @@ body {
 .library-lost-result-vs-stronger { 
   background-color: hotpink !important;
 }
-.library-lost-result-unranked body { 
+.library-lost-result-unranked { 
   color: hotpink !important;
 }
-.library-won-result-unranked body { 
+.library-won-result-unranked { 
   color: deepskyblue !important;
 }
 
