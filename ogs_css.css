@@ -5,16 +5,17 @@ body {
 
 .container {
     max-width: none !important;
-    background-image: url('URL') !important;
+    background-image: url('https://github.com/brentmobbs/go/blob/458796a14ec02b60217d21ca90c8850ef3710cd9/stars_bg.gif') !important;
 }
 
 .avatar-container .Player-username {
     font-size: 2em;
-    font-family: "Comic Sans MS", cursive, serif;
+    font-family: "Garamond", Garamond, serif;
 }
 
 h2, h3 {
     animation:rainbowText 2s infinite;
+    font-family: "Lucida Console", "Courier New", monospace;
 }
 @keyframes rainbowText{
     0%   {  color: #FF0900; }
