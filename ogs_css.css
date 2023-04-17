@@ -35,23 +35,23 @@ body {
 .weak-losses { 
   fill: deeppink !important;
 }
-.PaginatedTable game-history-table clickable-rows .library-won-result-vs-stronger { 
-  fill: deepskyblue !important;
+.library-won-result-vs-stronger { 
+  background-color: deepskyblue !important;
 }
 .library-won-result-vs-weaker { 
-  fill: cornflowerblue !important;
+  background-color: cornflowerblue !important;
 }
 .library-lost-result-vs-weaker { 
-  fill: deeppink !important;
+  background-color: deeppink !important;
 }
 .library-lost-result-vs-stronger { 
-  fill: hotpink !important;
+  background-color: hotpink !important;
 }
 .library-lost-result-unranked { 
-  fill: hotpink !important;
+  background-color: hotpink !important;
 }
 .library-won-result-unranked { 
-  fill: deepskyblue !important;
+  background-color: deepskyblue !important;
 }
 
 
