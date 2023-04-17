@@ -90,16 +90,16 @@ h1, h2, h3 {
 .about-container {
     color: deepskyblue;
     font-style: italic;
-    font-size: 3em;
+    font-size: medium;
 }
 
 .about-container h1 {
-    font-size: 3em;
+    font-size: large !important;
     font-style: normal !important;
 }
 
 .about-container h3 {
-    color: lightcyan
+    color: lightcyan !important;
     font-style: normal !important;
     animation:blinkingText 2s infinite;
 }
