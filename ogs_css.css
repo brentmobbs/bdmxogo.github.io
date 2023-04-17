@@ -4,6 +4,7 @@
 
 .Card  {
     background-image: url('https://brentmobbs.github.io/bdmxogo.github.io/stars2.png') !important;
+    border-radius: 12px !important;
 }
 
 .NavBar {
