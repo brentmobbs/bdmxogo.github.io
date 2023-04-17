@@ -12,6 +12,8 @@ body {
     font-size: 2em;
     font-family: "Garamond", Garamond, serif;
     font-weight: bold;
+    font-variant: small-caps;
+    font-style: italic;
 }
 
 h2, h3 {
