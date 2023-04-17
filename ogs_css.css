@@ -19,7 +19,7 @@ body {
     font-variant: small-caps !important;
     font-style: italic;
 }
-.avatar-container {
+.avatar-and-ratings-row {
     background-image: url('https://brentmobbs.github.io/bdmxogo.github.io/halo.png') !important;
 }
 
