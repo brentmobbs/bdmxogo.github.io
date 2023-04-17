@@ -40,18 +40,20 @@ body {
 }
 .library-won-result-vs-weaker { 
   background-color: cornflowerblue !important;
+  color: white !important
 }
 .library-lost-result-vs-weaker { 
   background-color: deeppink !important;
+  color: white !important
 }
 .library-lost-result-vs-stronger { 
   background-color: hotpink !important;
 }
-.library-lost-result-unranked { 
-  background-color: hotpink !important;
+.library-lost-result-unranked body { 
+  color: hotpink !important;
 }
-.library-won-result-unranked { 
-  background-color: deepskyblue !important;
+.library-won-result-unranked body { 
+  color: deepskyblue !important;
 }
 
 
