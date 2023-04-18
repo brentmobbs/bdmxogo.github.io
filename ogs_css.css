@@ -84,6 +84,7 @@ body {
 
 
 h1, h2, h3 {
+    padding: 2px;
     animation:rainbowText 2s infinite;
     font-family: "Lucida Console", "Courier New", monospace;
 }
