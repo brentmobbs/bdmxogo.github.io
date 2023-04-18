@@ -1,0 +1,46 @@
+28k: white
+27k: white yellow stripe
+26k: white 2 yellow stripes
+25k: yellow
+24k: yellow orange stripe
+23k: white orange stripe
+22k: white 2 orange stripes
+21k: orange
+20k: orange green stripe
+19k: white green stripe
+18k: white 2 green stripes
+17k: green
+16k: green purple stripe
+15k: white purple stripe
+14k: white 2 purple stripes
+13k: purple
+12k: purple blue stripe
+11k: white blue stripe
+10k: white 2 blue stripes
+9k: blue
+8k: blue black stripe
+7k: red
+6k: red black stripe
+5k: white brown stripe
+4k: brown
+3k: brown red stripe
+2k: brown black stripe
+1k: white black stripe
+1d: black 
+2d: black white stripe
+3d: black yellow stripe
+4d: black orange stripe
+5d: black green stripe
+6d: black purple stripe
+7d: black blue stripe
+8d: black red stripe
+9d: black brown stripe
+1p: black red bar
+2p: black 2 red bars
+3p: black 3 red bars
+4p: black 4 red bars
+5p: black 5 red bars
+6p: black 6 red bars
+7p: black 7 red bars
+8p: black 8 red bars
+9p: black 9 red bars
