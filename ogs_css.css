@@ -47,6 +47,7 @@ body {
     font-weight: bold;
     font-variant: small-caps !important;
     font-style: italic;
+    color: silver;
 }
 
 .strong-wins { 
@@ -84,7 +85,7 @@ body {
 
 
 h1, h2, h3 {
-    padding: 2px;
+    padding: 4px 4px;
     animation:rainbowText 2s infinite;
     font-family: "Lucida Console", "Courier New", monospace;
 }
