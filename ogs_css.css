@@ -15,6 +15,7 @@
 .avatar-and-ratings-row {
     background-image: url('https://brentmobbs.github.io/bdmxogo.github.io/halo.png') !important;
     opacity: 0.6;
+    background-repeat: no-repeat !important;
 }
 
 body {
