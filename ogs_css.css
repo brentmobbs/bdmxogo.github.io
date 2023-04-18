@@ -22,7 +22,16 @@
     font-weight: bold;
     font-variant: small-caps !important;
     font-style: italic;
-    color: silver;
+    animation:rainbowTextAvatar 2s infinite;
+}
+@keyframes rainbowTextAvatar{
+    0%   {  color: gold; }
+/*    17%  {  color: #FF7F00; } */
+    33%  {  color: deepskyblue; }
+/*    50%  {  color: #00F11D; } */
+    67%  {  color: silver; }
+/*    83%  {  color: #A800FF; } */
+    100% {  color: gold; }
 }
 
 /*Graphs row*/
