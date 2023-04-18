@@ -109,6 +109,7 @@ h1, h2, h3 {
     font-style: normal !important;
 }
 
+/*
 .about-container h3 {
     color: lightcyan !important;
     font-style: normal !important;
@@ -122,6 +123,7 @@ h1, h2, h3 {
     50%  {  opacity: 1; }
     100% {  opacity: 0; }
 }
+*/
 
 /*Activity card*/
 
