@@ -1,10 +1,50 @@
-/*Header*/
+/*Pagewide stuff*/
+
+    /*Fonts*/
+
+body {
+    font-family: "Garamond", Garamond, serif;
+    text-align: center;
+}
+
+h1, h2, h3 {
+    padding: 4px 4px;
+    animation:rainbowText 2s infinite;
+    font-family: "Garamond", Garamond, serif;
+}
+@keyframes rainbowText{
+    0%   {  color: tomato; }
+/*    17%  {  color: #FF7F00; } */
+    33%  {  color: deepskyblue; }
+/*    50%  {  color: #00F11D; } */
+    67%  {  color: lavender; }
+/*    83%  {  color: #A800FF; } */
+    100% {  color: tomato; }
+}
+
+    /*Page/card look*/
+
+.container {
+    max-width: none !important;
+    background-image: url('https://brentmobbs.github.io/bdmxogo.github.io/stars_bg.gif') !important;
+    background-attachment: fixed !important;
+}
+
+.Card  {
+    background-image: url('https://brentmobbs.github.io/bdmxogo.github.io/stars2.png') !important;
+    border-radius: 12px !important;
+    border-style: outset !important;
+}
+
+/*Specific elements*/
+
+        /*Header*/
 
 .NavBar {
     background-image: url('https://brentmobbs.github.io/bdmxogo.github.io/cnstar.gif') !important;
 }
 
-/*Avatar row*/
+        /*Avatar row*/
 
 .ratings-container {
   display:none !important;
@@ -34,7 +74,7 @@
     100% {  color: gold; }
 }
 
-/*Graphs row*/
+        /*Graphs row*/
 
 .chart {
     font-family: "Courier New", "Lucida Console", monospace;
@@ -53,50 +93,12 @@
   fill: deeppink !important;
 }
 
-/*Pagewide stuff*/
-
-  /*Fonts*/
-
-body {
-    font-family: "Garamond", Garamond, serif;
-    text-align: center;
-}
-
-h1, h2, h3 {
-    padding: 4px 4px;
-    animation:rainbowText 2s infinite;
-    font-family: "Garamond", Garamond, serif;
-}
-@keyframes rainbowText{
-    0%   {  color: tomato; }
-/*    17%  {  color: #FF7F00; } */
-    33%  {  color: deepskyblue; }
-/*    50%  {  color: #00F11D; } */
-    67%  {  color: lavender; }
-/*    83%  {  color: #A800FF; } */
-    100% {  color: tomato; }
-}
-
-  /*Page/card look*/
-
-.container {
-    max-width: none !important;
-    background-image: url('https://brentmobbs.github.io/bdmxogo.github.io/stars_bg.gif') !important;
-    background-attachment: fixed !important;
-}
-
-.Card  {
-    background-image: url('https://brentmobbs.github.io/bdmxogo.github.io/stars2.png') !important;
-    border-radius: 12px !important;
-    border-style: outset !important;
-}
-
-
-/*About container*/
+        /*About container*/
 
 .about-container {
     overflow: hidden;
     position: relative;
+    max-height: none !important;
 }
 
 .about-container {
@@ -125,19 +127,19 @@ h1, h2, h3 {
 }
 */
 
-/*Activity card*/
+        /*Activity card*/
 
 .activity-card {
     text-align: left !important;
 }
 
-/*Active games*/
+        /*Active games*/
 
 .current-users-move {
     background-image: url('https://brentmobbs.github.io/bdmxogo.github.io/stars2.png') !important;
 }
 
-/*Game records*/
+        /*Game records*/
 
 .library-won-result-vs-stronger { 
   background-color: deepskyblue !important;
